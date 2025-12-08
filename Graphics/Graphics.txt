@@ -1,0 +1,2 @@
+Here's The Graphics Format
+.WAX/.FME/.BM - likely Mostly of The Sprites are Stored In .WAX/.FME/.BM
