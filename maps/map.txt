@@ -1,0 +1,1 @@
+So Here's The Map Format, The Map Format For Kizzy's Funland Is Based on Quake II's Map Format, but just modified to support voxel-based terrain, build-style wall decal, baldi-style door, and build-style room-over-room. it is also viewed as doom's format.
