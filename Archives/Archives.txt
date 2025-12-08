@@ -1,0 +1,3 @@
+Here are The Archive Formats:
+.WAD - likely stored as a data files.
+.PK3 - The Main Data Format
